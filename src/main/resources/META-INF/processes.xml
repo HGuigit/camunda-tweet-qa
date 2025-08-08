@@ -1,0 +1,8 @@
+<process-application xmlns="http://www.camunda.org/schema/1.0/ProcessApplication">
+    <process-archive>
+        <resource>META-INF/TweetDiagram.bpmn</resource>
+        <resource>forms/escrita_tweet.form</resource>
+        <resource>forms/aprova_tweet.form</resource>
+        <resource>forms/feedback.form</resource>
+    </process-archive>
+</process-application>

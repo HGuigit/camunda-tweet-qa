@@ -1,0 +1,35 @@
+{
+  "components": [
+    {
+      "text": "# Por favor, escreva seu tweet:",
+      "type": "text",
+      "layout": {
+        "row": "Row_1fiy5ig",
+        "columns": 8
+      },
+      "id": "Field_17wyclg",
+      "properties": {
+        "key1": "value"
+      }
+    },
+    {
+      "label": "Tweet",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_0280ipa",
+        "columns": null
+      },
+      "id": "Field_1x3g0f3",
+      "key": "tweetText"
+    }
+  ],
+  "type": "default",
+  "id": "EscritaForm",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.36.1"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.23.0",
+  "schemaVersion": 18
+}

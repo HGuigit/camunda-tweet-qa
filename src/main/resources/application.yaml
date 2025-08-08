@@ -13,4 +13,4 @@ camunda.bpm:
     create: All Tasks
   job-execution:
     max-wait: 10000
-server.port: 8080
+server.port: 8082

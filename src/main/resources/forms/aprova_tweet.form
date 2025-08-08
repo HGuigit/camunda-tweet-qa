@@ -1,0 +1,44 @@
+{
+  "components": [
+    {
+      "text": "# Você aprova o tweet?",
+      "type": "text",
+      "layout": {
+        "row": "Row_10341lx",
+        "columns": null
+      },
+      "id": "Field_1cowun5"
+    },
+    {
+      "label": "",
+      "values": [
+        {
+          "label": "sim",
+          "value": "true"
+        },
+        {
+          "label": "não",
+          "value": "false"
+        }
+      ],
+      "type": "radio",
+      "layout": {
+        "row": "Row_1cw7gxr",
+        "columns": null
+      },
+      "id": "Field_0fikao9",
+      "key": "tweetAproved",
+      "description": "Aprova?",
+      "defaultValue": "true"
+    }
+  ],
+  "type": "default",
+  "id": "AprovaForm",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.36.1"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.23.0",
+  "schemaVersion": 18
+}

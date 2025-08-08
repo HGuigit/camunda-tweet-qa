@@ -1,0 +1,53 @@
+{
+  "components": [
+    {
+      "text": "# Procure por feedback",
+      "type": "text",
+      "layout": {
+        "row": "Row_001y0t9",
+        "columns": null
+      },
+      "id": "Field_1dpp7w1"
+    },
+    {
+      "label": "Feedback",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_0islbwy",
+        "columns": null
+      },
+      "id": "Field_0xfszte",
+      "key": "textfield_opq03j"
+    },
+    {
+      "label": "Descartar Idéia?",
+      "values": [
+        {
+          "label": "Sim",
+          "value": true
+        },
+        {
+          "label": "Não",
+          "value": false
+        }
+      ],
+      "type": "radio",
+      "id": "Field_0kkk8e7",
+      "key": "discardIdea",
+      "layout": {
+        "row": "Row_018h832",
+        "columns": null
+      },
+      "defaultValue": "false"
+    }
+  ],
+  "type": "default",
+  "id": "FeedbackForm",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.36.1"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.23.0",
+  "schemaVersion": 18
+}
